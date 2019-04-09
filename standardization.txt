@@ -1,0 +1,9 @@
+clone repos to
+	C:\Users\PC2\Desktop\
+
+JudgeData Path should generally be
+	C:\Users\PC2\Desktop\${repo-name}\JudgeData\
+
+Use hyphens as filename delimiters
+
+encrypt Programming Packet zips before committing
