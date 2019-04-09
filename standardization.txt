@@ -5,5 +5,8 @@ JudgeData Path should generally be
 	C:\Users\PC2\Desktop\${repo-name}\JudgeData\
 
 Use hyphens as filename delimiters
-
 encrypt Programming Packet zips before committing
+
+Server IP should be 192.168.1.2
+	reserve this IP on the contest router
+	change pc2v9.ini when done setting up on a remote device
