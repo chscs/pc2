@@ -1,6 +1,7 @@
 Base PC2 Configurations for Java practice contests
 
 pc2-x.x.x-base.zip has unnecessary elements deleted.
+
 pc2-x.x.x-initial.zip has contest password, language, and scoring already set up.
 
 ## Notes
